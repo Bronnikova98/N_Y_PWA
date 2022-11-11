@@ -1,5 +1,5 @@
 //При изменении данных нужно изменить номер версии на другую, например site-static-v4 и т.д
-const staticCacheName = 'site-static-v11';
+const staticCacheName = 'site-static-v12';
 const assets = [
     '.',
     'index.html',
